@@ -1,0 +1,26 @@
+_repo: Joscelyn-CheshireA-Story-of-Revolutionary-Days-in-the-Carolinas_35519
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35519-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Kennedy, Sara Beaumont
+    deathdate: 1921
+    gutenberg_agent_id: '37731'
+    url: http://www.gutenberg.org/2009/agents/37731
+description: ''
+gutenberg_issued: '2011-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35519'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Fiction'
+- !lcc 'PZ'
+title: 'Joscelyn Cheshire: A Story of Revolutionary Days in the Carolinas'
+url: http://www.gutenberg.org/ebooks/35519
